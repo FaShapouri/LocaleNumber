@@ -1,7 +1,7 @@
 # LocaleNumber
 Convert Numbers to/from Persian (تبدیل اعداد فارسی به لاتین و برعکس در متن های ترکیبی)
 
-// The code is written in Xcode Version 8.3.3 - Swift 3
+# The code is written in Xcode Version 8.3.3 - Swift 3
 
 
 A sample playground to locale number from En to Fa and Fa to En
